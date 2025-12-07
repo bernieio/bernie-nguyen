@@ -33,16 +33,16 @@ export const aboutContent = {
 
 export const skills = {
     blockchain: {
-        title: "Blockchain & Smart Contracts",
-        items: ["Sui Move", "Rust", "Solidity", "Hardhat", "Truffle", "Web3.js", "Ethers.js"]
+        title: "Sui Stack Development and Other Blockchains",
+        items: ["Sui Move", "DeepBook integration", "Walrus integration", "Solidity (EVM)", "Hardhat", "Web3.js", "Ethers.js"]
     },
     frontend: {
         title: "Frontend & Full-Stack",
-        items: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Framer Motion", "Node.js", "Express"]
+        items: ["TypeScript", "JavaScript", "React.js", "Next.js", "Tailwind CSS", "Bootstrap", "Framer Motion", "Reactbits", "Node.js", "Express", "PostgreSQL", "Supabase", "Neon.Tech"]
     },
     tools: {
         title: "Tools & Workflow",
-        items: ["Git/GitHub", "Docker", "AWS", "Vercel", "Figma", "Postman", "Sui CLI"]
+        items: ["Sui CLI", "Git/GitHub", "CloudFlare Workers", "CloudFlare R2", "CloudFlare D1", "CloudFlare KV", "Netlify", "Vercel", "Render", "Cursor IDE", "Claude Code", "Google Antigravity", "Bolt.new"]
     }
 };
 
