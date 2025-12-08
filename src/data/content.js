@@ -89,5 +89,5 @@ export const achievements = [
     { event: "SEA Ideathon 2025", result: "Top 8 Finalist" },
     { event: "TLS-Innovation 2025", result: "Runner-up" },
     { event: "Sui Bootcamp HCMC Hackathon", result: "Runner-up" },
-    { event: "Walrus Haulout Hackathon 2025", result: "AI x Data Track Winner" }
+    { event: "Walrus Haulout Hackathon 2025", result: "AI x Data Track Contestant" }
 ];
